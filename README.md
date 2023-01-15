@@ -3,7 +3,7 @@
 
 ### **(Discord raid tools soon!)**
 
- **Installation:** run install.bat in SolarKit folder or install modules using **```pip install -r reqirements.py```**
+ **Installation:** run **```install.bat```** in SolarKit folder or install modules using **```pip install -r reqirements.py```**
 
  **Configuration:** change configuration in **```config.json```** — for mail spam, in **```tgconf.json```** — for Telegram spam.
 
