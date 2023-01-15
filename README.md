@@ -9,4 +9,4 @@
 
 (P.S edit your type of Telegram spam in **```__tg__.py```**)
 
-~~~ **For passgen tool run ```python __passgen__.py -h (or --help)```** ~~~
+~~ **For passgen tool run ```python __passgen__.py -h (or --help)```** ~~
