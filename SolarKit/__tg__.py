@@ -28,6 +28,6 @@ tg.get_chats()
 
 # tg.send_message(user_id=settings["victim_id"], message=settings["message"], image=settings["__Image__"])
 
-# tg.start_bombing(user_id=1370248012, amount=settings["amount"], message=settings["message"],  image=settings["__Image__"])
+# tg.start_bombing(user_id=settings["victim_id"], amount=settings["amount"], message=settings["message"],  image=settings["__Image__"])
 
 # tg.start_selective_spam(settings["api_id", "victim_id"], "HELLO FROM 97tEaM")
