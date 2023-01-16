@@ -1,3 +1,4 @@
+import json
 from social_spam import *
 from argparse import *
 from colorama import *
