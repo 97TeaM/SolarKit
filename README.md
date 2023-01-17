@@ -1,12 +1,9 @@
 # SolarKit
-## **Telegram spam, mail spam, passgen & more**
+## **Telegram spam, mail spam, DoS, passgen & more**
 
-### **(Discord raid tools soon!)**
 
- **Installation:** run **```install.bat```** in SolarKit folder or install modules using **```pip install -r reqirements.py```**
-
- **Configuration:** change configuration in **```config.json```** — for mail spam, in **```tgconf.json```** — for Telegram spam.
-
+**Installation:** run **```install.bat```** (or **```install.bash```**) in SolarKit folder.
+ 
+**Configuration:** change configuration in **```json files```**.
+ 
 (P.S edit your type of Telegram spam in **```__tg__.py```**)
-
-~~ **For passgen tool run ```python __passgen__.py -h (or --help)```** ~~
