@@ -15,4 +15,4 @@ async def raid(ctx):
     while True:
         await ctx.send(spam)
 
-bot.run("MTA0NDU1NDY1MjE2OTAyMzUxOA.GyI0R4.HanV3a0E_bIVSzqQeSAObPb8OpKzERIL1vIAsI")
+bot.run("YOUR_TOKEN")
