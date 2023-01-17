@@ -1,0 +1,9 @@
+{
+    "mail": "YOUR_MAIL",
+    "token": "YOUR_TOKEN",
+    "header": "HEADER_OF_THE_MESSAGE",
+    "message": "MESSAGE",
+    "__Image__": "IMAGE_PATH",
+    "victim_mail": "VICTIM_MAIL",
+    "amount": "ATTACKS_AMOUNT"
+}
