@@ -10,4 +10,4 @@
 
 Open tool: **```python __main__.py```**
  
-(P.S edit your type of Telegram spam in **```__tg__.py```**)
+(P.S edit your type of Telegram spam in **```__tg__.py```**, make your discord bot on ```**https://discord.com/developers/**``` and put your token into **```__raid__.py```**)
