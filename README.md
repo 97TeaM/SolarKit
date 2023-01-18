@@ -4,7 +4,7 @@
 
 **Installation:** go into https://github.com/Solaree/SolarKit/releases/ and download latest version, unzip it. Run **```run_this.bat```** (or **```run_this.bash```** if u use linux) in SolarKit folder.
 
-## **YOU NEED NODE.JS AND PYTHON 3.9-3.11 INSTALLED**
+## **YOU NEED NODE.JS, NPM AND PYTHON 3.9-3.11 INSTALLED**
  
 **Configuration:** change configuration in **```json files```**.
 
