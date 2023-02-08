@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "server": "web_site_ip",
+    "requests": "requests",
+    "port": "ports"
+}
