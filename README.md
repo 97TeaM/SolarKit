@@ -6,7 +6,7 @@
 
 ## **YOU NEED NODE.JS, NPM AND PYTHON 3.9-3.11 INSTALLED**
  
-**Configuration:** change configuration in **```json files```**.
+**Configuration:** change configuration in **```.json files```**.
 
 Open tool: **```python __main__.py```**
  
