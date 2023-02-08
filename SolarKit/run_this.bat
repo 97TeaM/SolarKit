@@ -1,9 +1,16 @@
 @echo off
 
-pip install -r reqirements.txt
+title SolarKit
 
-npm install -g npm
-
-npm i ddos-stress
+if exist node_modules\ (
+  echo You've already installed modules!
+    pip install -r requirements.txt
+    npm install -g npm@latest
+    npm install -g ddos-stress
+    npm update -g
+  )
 
 python __main__.py
+
+pause
+exit

@@ -1,5 +1,6 @@
 {
     "type": "module",
-    "web-site": "VICTIM_SITE",
-    "requests": "REQUESTS_OF_THE_ATTACK_NUMBER"
+    "server": "web_site_ip",
+    "requests": "requests",
+    "port": "ports"
 }

@@ -1,7 +1,7 @@
-const config = require('./dos_conf.json');
+var config = require('./dos_conf.json');
 
-const Stress = require('ddos-stress');
+var Stress = require('ddos-stress');
 
-const stress = new Stress()
+var stress = new Stress();
 
-stress.run(config['web-site'], config['requests'])
+stress.run(config['server'], config['requests'], config['port'])
