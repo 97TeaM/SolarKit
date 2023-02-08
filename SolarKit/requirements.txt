@@ -1,6 +1,0 @@
-argparse
-art
-colorama
-social-spam
-discord
-secrets
